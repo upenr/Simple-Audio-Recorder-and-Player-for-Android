@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <EditText
+	      android:id="@+id/editText1"
+	      android:layout_width="wrap_content"
+	      android:layout_height="64dp"
+	      android:hint="@string/rename" >
+	  </EditText>
+	  <Button
+	      android:id="@+id/button7"
+	      android:layout_width="100dp"
+	      android:layout_height="wrap_content"
+	      android:background="#ffffff"
+	      android:text="Rename" />
+    </menu>

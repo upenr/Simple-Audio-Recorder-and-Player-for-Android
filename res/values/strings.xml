@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IdeaBook</string>
+    <string name="enter">Name of the idea to delete</string>
+    <string name="rename">Name of the idea to rename</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Recording">Tap the mic to record your idea. Swipe left or right to view all ideas. Menu for more information.</string>
+    <string name="start">Record</string>
+    <string name="stop">Stop</string>
+    <string name="stop1">Stop Playing</string>
+    <string name="play">Delete Last Idea</string>
+    <string name="spread">Spread the word</string>
+    <string name="view">View All Ideas</string>
+    <string name="title_activity_information" translatable="false">INFORMATION</string>
+    <string name="action1">Rename</string>
+    <string name="action2">Delete</string>
+    <string name="action3">Share</string>
+    <string name="PlayAll">Tap once to play your ideas. Hold for more options. Swipe anywhere to get the record button.</string>
+    <string name="title_activity_play">PlayActivity</string>
+
+</resources>
